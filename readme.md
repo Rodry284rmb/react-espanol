@@ -1,6 +1,6 @@
 ## Recursos para aprender ReactJS en español
 
-> Colección de recursos para aprender [ReactJS](https://facebook.github.io/react/). Si tienes algun material no olvides enviar un pull requests, o un tuit [@jlobitu](https://twitter.com/jlobitu).
+> Colección de recursos para aprender [ReactJS](https://facebook.com/react/). Si tienes algun material no olvides enviar un pull requests, o correo personal
 
 - [React](#react)
   - [Sobre React](#sobre-react)
