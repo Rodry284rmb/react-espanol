@@ -1,37 +1,35 @@
-## Recursos para aprender ReactJS en español
+## Recursos para aprender Java en español
 
-> Colección de recursos para aprender [ReactJS](https://facebook.github.io/react/). Si tienes algun material no olvides enviar un pull requests, o un tuit [@jlobitu](https://twitter.com/jlobitu).
-
-- [React](#react)
-  - [Sobre React](#sobre-react)
-  - [React Tutoriales](#react-tutoriales)
-  - [React Native](#react-native)
-  - [Flux](#flux)
+> Colección de recursos para aprender [Java](https://facebook.com/react/). 
+(#react)
+  - (#sobre-react)
+  - [React Tutoriales)
+  - (#react-native)
+    
   - [Redux](#redux)
 - [Videos](#videos)
-  - [Video Tutoriales](#video-tutoriales)
-  - [Video Cursos](#video-cursos)
-- [Libros](#libros)
+  - (#video-tutoriales)
+  - (#video-cursos)--_(#libros)
 
 ## React
 
-> Biblioteca JavaScript para la construcción de interfaces de usuario
+> Biblioteca Java para la construcción de interfaces de usuario
 
 ### Sobre React
 
-> [Documentacion de React.js en español](https://github.com/reactjs-hispano/react-es-docs)
+> [Documentacion de React.js en español](https://github.com/reactj-español/react-es-docs)
 
-- [Qué es y cómo funciona ReactJS](https://platzi.com/blog/intro-react-js/)
-- [React, ¿qué es?](https://medium.com/@bonniemilianb/react-fa9fd8ee3c29)
-- [Conceptos básicos de JSX y ReactJS](https://platzi.com/blog/conceptos-basicos-reactjs/)
-- [ReactJS, lo que trae la corriente](http://codexsw.logdown.com/posts/294581-reactjs-lo-que-trae-la-corriente)
-- [¿Cómo funciona React.js?	](https://programarivm.com/2016/06/como-funciona-react-js/)
-- [Lo nuevo en React v0.14](https://platzi.com/blog/react-v014/)
-- [ReactJS: un enfoque diferente](http://blog.koalite.com/2014/09/reactjs-un-enfoque-diferente/)
-- [Retrospectiva de un proyecto con ReactJS](http://blog.koalite.com/2015/01/retrospectiva-de-un-proyecto-con-reactjs/)
+- [Qué es y cómo funciona ReactJS](https://play estore.com/blog/intro-react-j/)
+- [React, ¿qué es?](https://react)
+- [Conceptos básicos de JX y ReactJ(https://google.com/blog/conceptos-basicos-reactj)
+  
+- [¿Cómo funciona React.j?	](https://programariconsole.com/2024/01/como-funciona-react-js/)
+- [Lo nuevo en React v3
+- [ReactJS: un enfoque identico(http://bc.com/2024/09/reactjs-un-enfoque-diferente/)
+- [Retrospectiva de un proyecto con ReactJ](http://blog.koalite.com/2024/01/retrospectiva-de-un-proyecto-con-reactjs/)
 - [Introducción a React](http://code.ezakto.com/react/introduccion-a-react.html)
 - [¿Qué es y cómo funciona React.js?](https://www.nextuniversity.com/blog/que-es-y-como-funciona-react-js/)
-- [REACTJS Y ¿SUS VÍCTIMAS?](https://itblogsogeti.com/2016/05/31/reactjs-y-sus-victimas/)
+- [REACTJS Y ¿SUS V(https://itblogsogeti.com/2016/05/31/reactjs-y-sus-victimas/)
 - [Lo que tienes que saber sobre React 15](https://platzi.com/blog/react-15/)
 - [Serie de pasos concretos e indicaciones para empezar a usar Reactjs sin fatiga](https://github.com/victorkane/meetup-2016-04-05)
 - [react howto](https://github.com/petehunt/react-howto/blob/master/README-es.md)
@@ -161,43 +159,4 @@
 - [Chema Balsas (@jbalsas) nos habla sobre React y AllowEditor](https://youtu.be/iyN0S9BV6Ok)
 - [(Bogota) ReactJS y React Native](https://youtu.be/NVKwwHNLhBY)
 - [STREAM: react + json api + nodejs + es6 ! español](https://www.livecoding.tv/video/react-json-api-nodejs-es6-espanol-2/)
-- [STREAM: react + webpack + es6 ! español](https://www.livecoding.tv/video/react-webpack-es6-espanol/)
-- [STREAM: react + webpack + es6 ! español](https://www.livecoding.tv/video/react-webpack-es6-espanol-2/)
-- [STREAM: react + webpack + es6 ! español](https://www.livecoding.tv/video/react-webpack-es6-espanol-3/)
-- [Introducción a React.js](https://youtu.be/i5MEOIkfuyI)
-- [Algo más de ReactJs | Scio Talks PV2016](https://youtu.be/8Qua6aXb-XU)
-- [Consumir un API REST con React y Redux](https://youtu.be/nf_3AsfPODs)
-- [React: Rethinking Best Practices (es)](https://youtu.be/wDyNb1Xvtzg)
-- [Scaffolding de aplicaciones complejas con React - JSDayES 2016](https://youtu.be/tfJ5CuxOhO8)
-- [SailsJS + ReactJS como motor de plantilla](https://youtu.be/SaGNKRKvB-c)
-- [Conociendo React](https://youtu.be/5UrsspX1-zk)
-- [ReactJS @ MuleSoft - 29 de junio de 2016](https://youtu.be/-owNNdI6XqQ)
-- [Aprende a desarrollar aplicaciones en tiempo real con Crystal y React](https://youtu.be/KAre3vRCU3U)
-- [El camino para dominar Reactjs](https://youtu.be/Kqd79dJ1gVI)
-- [Aplicaciones Isomorficas con React](https://youtu.be/57qrZWGYp-s)
-- [Redux para frontenders y no tan frontenders](https://youtu.be/SGun5d3L8gM)
-- [Introducción a React Hooks](https://www.youtube.com/watch?v=_FmQ9mlSUoQ)
-
-### Video Cursos
-
-- [Jesus Conde - React.js](https://www.youtube.com/playlist?list=PLEtcGQaT56ci0QiNycpR8mXWeaXcZn5yA)
-- [Platzi - Curso: React.js](https://www.youtube.com/playlist?list=PLa28R7QEiMblX90sGz23mLhHq5X_JzSmi)
-- [Oscar Uh Pérez - React js](https://www.youtube.com/playlist?list=PLSuKjujFoGJ2XwyfRvH2nvJ44gvxBEPOd)
-- [BrainTec - Desarrollo Ágil con React.js](https://www.youtube.com/playlist?list=PLnW2LExoie2XEAFmCxlHhKCG6qj4G_CfB)
-- [@elburabure - NodersCL - Curso de ReactJS Clase1](https://youtu.be/8zNZbx6ioDk)
-- [@elburabure - NodersCL - Curso de ReactJS Clase2](https://youtu.be/nl89wj1NNOU)
-- [@elburabure - NodersCL - Curso de ReactJS Clase3](https://youtu.be/JBiAjcLJWew)
-- [Ricardo Borillo - React](https://www.youtube.com/playlist?list=PLl2j1YxD9uxP8rh33nWGUHY0zZ-xd19Bq)
-- [Risky Programmer - React.JS](https://www.youtube.com/playlist?list=PLQ7rrCblsgaNI73ge-63QQdd0Bln7ZJlq)
-- [Código Facilito - Curso gratis de React](https://codigofacilito.com/courses/curso-gratis-de-react)
-- [Iván BTrujillo - React Native](https://www.youtube.com/playlist?list=PLuzQ5Ac_9_cI-ukaElfIFKXyhLsADBiJe)
-- [Uno de piera - Curse de ReactJS](https://www.youtube.com/playlist?list=PLe3ZqgP6POZ7TE9Cv1gT3gZz1KEJ0yM0t)
-- [Curso de React.JS - Softcoders](https://www.youtube.com/playlist?list=PLAwIw_k7PN3qNqvYjb0O8mMwAo-kf-eXe)
-- [Mario Díez - Curso de React Native](https://www.youtube.com/playlist?list=PLqB3diFeF20Tjmnl8ASD4edh7r8-Qd5ep)
-- [React: fundamentos hasta Full-stack!](https://www.udemy.com/react-fundamentos-hasta-full-stack/)
-- [Make it Real: Curso básico de React](https://www.youtube.com/playlist?list=PLxyfMWnjW2kssQROHucUJiRfW0FUhcVzN)
-- [Make it Real: Curso avanzado de React (Redux y Testing)](https://www.youtube.com/playlist?list=PLxyfMWnjW2kuyePV1Gzn5W_gr3BGIZq8G)
-
-## Libros
-
-- [Descubre React - Javi Jimenez](https://leanpub.com/descubre-react)
+- [STREAM: react + webpack + es6 ! español](https://www.livecoding.tv/video/react-webpack-es6-espanol/
